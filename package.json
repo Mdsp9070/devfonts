@@ -1,0 +1,12 @@
+{
+  "name": "devfonts",
+  "version": "1.0.0",
+  "description": "List of fonts for coding",
+  "main": "index.js",
+  "license": "GPL-3.0-or-later",
+  "homepage": "https://github.com/Mdsp9070/devfonts",
+  "devDependencies": {
+    "elm-hot": "^1.1.6",
+    "node-elm-compiler": "^5.0.6"
+  }
+}
