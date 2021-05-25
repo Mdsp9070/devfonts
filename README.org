@@ -1,0 +1,14 @@
+#+title: DevFonts
+#+author: Matheus de Souza Pessanha
+
+#+caption: PRs
+[[https://img.shields.io/badge/PRs-welcome-brightgreen.svg]]
+
+This is an =Elm= fork of https://github.com/Gaafar/dev-fonts!
+
+My fork aims to be a educational project where I can practise =Elm=
+but also be an up-to-date site where you can find some cool dev fonts
+and see previews with your favourite language or editor theme!
+
+Of course the code initially will be kinda identical with the original project
+but I'll try to build a different visual art!
